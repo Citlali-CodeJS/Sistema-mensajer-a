@@ -5,8 +5,6 @@ body {
   min-height: 100vh;
   min-width: 100vh;
 }
-
-/* main father container */
 .main-content {
   display: flex;
   flex: 0 0 0;
@@ -99,7 +97,7 @@ body {
   cursor: pointer;
 }
 
-/* main section */
+
 .flex-container {
   background-color:#E8EBE4  ;
   display: flex;
