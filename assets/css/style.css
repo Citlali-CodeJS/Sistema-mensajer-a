@@ -1,9 +1,11 @@
-* {
-  font-family: "Roboto", open sans-regular;
+*{
+  margin: 0;
+  padding: 0;
 }
 body {
   min-height: 100vh;
   min-width: 100vw;
+  font-family: "Roboto", open sans-regular;
 }
 .main-content {
   display: flex;
@@ -27,7 +29,7 @@ body {
   display: flex;
   justify-items: center;
   align-items: center;
-  padding: 10px;
+  padding: 12px;
   border-bottom: 2px solid #ccc;
 
 }
